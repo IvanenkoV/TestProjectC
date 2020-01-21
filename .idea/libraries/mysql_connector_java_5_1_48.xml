@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-5.1.48">
+    <CLASSES>
+      <root url="jar://D:/УЧЕБА/CucumberTesrtNG/JDBC/mysql-connector-java-5.1.48/mysql-connector-java-5.1.48/mysql-connector-java-5.1.48.jar!/" />
+      <root url="jar://D:/УЧЕБА/CucumberTesrtNG/WebDRIVER/selenium-java-3.141.59/client-combined-3.141.59.jar!/" />
+      <root url="jar://D:/УЧЕБА/CucumberTesrtNG/WebDRIVER/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/" />
+      <root url="jar://D:/УЧЕБА/CucumberTesrtNG/WebDRIVER/selenium-java-3.141.59/libs/commons-exec-1.3.jar!/" />
+      <root url="jar://D:/УЧЕБА/CucumberTesrtNG/WebDRIVER/selenium-java-3.141.59/libs/guava-25.0-jre.jar!/" />
+      <root url="jar://D:/УЧЕБА/CucumberTesrtNG/WebDRIVER/selenium-java-3.141.59/libs/okhttp-3.11.0.jar!/" />
+      <root url="jar://D:/УЧЕБА/CucumberTesrtNG/WebDRIVER/selenium-java-3.141.59/libs/okio-1.14.0.jar!/" />
+      <root url="jar://D:/УЧЕБА/CucumberTesrtNG/WebDRIVER/sikulixsetup-1.1.2.jar!/" />
+      <root url="jar://D:/УЧЕБА/CucumberTesrtNG/WebDRIVER/poi-bin-3.17-20170915/poi-3.17/poi-3.17.jar!/" />
+      <root url="jar://D:/УЧЕБА/CucumberTesrtNG/WebDRIVER/poi-bin-3.17-20170915/poi-3.17/poi-examples-3.17.jar!/" />
+      <root url="jar://D:/УЧЕБА/CucumberTesrtNG/WebDRIVER/poi-bin-3.17-20170915/poi-3.17/poi-excelant-3.17.jar!/" />
+      <root url="jar://D:/УЧЕБА/CucumberTesrtNG/WebDRIVER/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-3.17.jar!/" />
+      <root url="jar://D:/УЧЕБА/CucumberTesrtNG/WebDRIVER/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-schemas-3.17.jar!/" />
+      <root url="jar://D:/УЧЕБА/CucumberTesrtNG/WebDRIVER/poi-bin-3.17-20170915/poi-3.17/poi-scratchpad-3.17.jar!/" />
+      <root url="jar://D:/УЧЕБА/CucumberTesrtNG/WebDRIVER/poi-bin-3.17-20170915/poi-3.17/ooxml-lib/xmlbeans-2.6.0.jar!/" />
+      <root url="jar://D:/УЧЕБА/CucumberTesrtNG/WebDRIVER/poi-bin-3.17-20170915/poi-3.17/ooxml-lib/curvesapi-1.04.jar!/" />
+      <root url="jar://D:/УЧЕБА/CucumberTesrtNG/WebDRIVER/poi-bin-3.17-20170915/poi-3.17/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://D:/УЧЕБА/CucumberTesrtNG/WebDRIVER/poi-bin-3.17-20170915/poi-3.17/lib/junit-4.12.jar!/" />
+      <root url="jar://D:/УЧЕБА/CucumberTesrtNG/WebDRIVER/poi-bin-3.17-20170915/poi-3.17/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://D:/УЧЕБА/CucumberTesrtNG/WebDRIVER/poi-bin-3.17-20170915/poi-3.17/lib/commons-collections4-4.1.jar!/" />
+      <root url="jar://D:/УЧЕБА/CucumberTesrtNG/WebDRIVER/poi-bin-3.17-20170915/poi-3.17/lib/commons-codec-1.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/УЧЕБА/CucumberTesrtNG/WebDRIVER/selenium-java-3.141.59/client-combined-3.141.59-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
